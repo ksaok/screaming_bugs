@@ -6,6 +6,9 @@ description = ""
 authors = [
     {name = "ksaok", email = "ksaok@practicum.com"},
 ]
-dependencies = []
+dependencies = [
+    "pygame>=2.4.0",
+    "pydantic>=1.10.9",
+]
 requires-python = ">=3.11"
 license = {text = "MIT"}
